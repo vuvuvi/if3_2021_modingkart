@@ -77,6 +77,8 @@ TrailRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -88,6 +90,7 @@ TrailRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -126,8 +129,8 @@ TrailRenderer:
         inWeight: 0.73180956
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.28241187
-        value: 0.8951372
+        time: 0.26416236
+        value: 0.74129045
         inSlope: -1.4847497
         outSlope: -1.4847497
         tangentMode: 0
@@ -144,8 +147,8 @@ TrailRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.57298493
-        value: 0.6712527
+        time: 0.5437949
+        value: 0.4917674
         inSlope: -0.480656
         outSlope: -0.480656
         tangentMode: 0
@@ -162,8 +165,8 @@ TrailRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.8543319
-        value: 0.40410036
+        time: 0.8506698
+        value: 0.23316377
         inSlope: -0.3237343
         outSlope: -0.3237343
         tangentMode: 0
